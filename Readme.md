@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/15/user/292723).
+* Студент: [Тимофей Зацепилов](https://up.htmlacademy.ru/htmlcss/15/user/292723).
+* Преподаватель: [Илья Борисенко](https://htmlacademy.ru/profile/id39390).
 
 ---
 
